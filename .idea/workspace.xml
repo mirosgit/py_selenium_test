@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05e6f6b2-fbfd-4c8f-bf41-5b6564c6b707" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/base_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,11 +20,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "E:/Git/selenium_test/py_selenium_test/test_fixture_1.py"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;E:/Git/selenium_test/py_selenium_test/test_fixture_1.py&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.conftest">
     <configuration name="conftest" type="PythonConfigurationType" factoryName="Python">
       <module name="py_selenium_test" />
