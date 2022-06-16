@@ -4,12 +4,8 @@ from .locators import LoginPageLocators
 
 class LoginPage(BasePage):
     def should_be_login_page(self):
-        #self.should_be_login_url()
         self.should_be_login_form()
         self.should_be_register_form()
-
-  #  def should_be_login_url(self):
-  #      self.browser.current_url("http://selenium1py.pythonanywhere.com/de/accounts/login/")
 
     def should_be_login_form(self):
         assert self.is_element_present(*LoginPageLocators.Log_Email_ID), "Login Email is not presented"
